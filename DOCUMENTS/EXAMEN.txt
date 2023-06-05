@@ -47,3 +47,18 @@ git checkout ampliacio
 git add *
 git commit
 git push https://github.com/Txibirudl/examenm5uf2Recu.git
+
+Exercici 7
+--------------
+
+git checkout master
+git merge ampliacio
+git push https://github.com/Txibirudl/examenm5uf2Recu.git
+
+
+Exercici 8
+----------------
+ja esta tot fet
+git add *
+git commit
+git push https://github.com/Txibirudl/examenm5uf2Recu.git
