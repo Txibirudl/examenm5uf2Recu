@@ -43,3 +43,7 @@ git push https://github.com/Txibirudl/examenm5uf2Recu.git
 Exercici 6
 ---------------
 git branch ampliacio
+git checkout ampliacio
+git add *
+git commit
+git push https://github.com/Txibirudl/examenm5uf2Recu.git
