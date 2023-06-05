@@ -1,0 +1,1 @@
+L'objectiu d'aquest examen es no tenir que repetir curs.
