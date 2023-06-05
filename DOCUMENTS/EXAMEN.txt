@@ -8,3 +8,14 @@ git remote add origin https://github.com/Txibirudl/examenm5uf2Recu.git
 git add AUTHOR.txt
 git add README.txt
 git add DOCUMENTS/
+git commit (msg editat amb vs code)
+git push https://github.com/Txibirudl/examenm5uf2Recu.git
+
+
+Exercici 2
+---------------
+
+git add LICENSE.txt
+git add DOCUMENTS/
+git commit
+git push https://github.com/Txibirudl/examenm5uf2Recu.git
