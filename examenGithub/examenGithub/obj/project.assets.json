@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\obj26\\Desktop\\clases\\Clase\\DAM2\\POO\\examenGithub\\examenGithub\\examenGithub.csproj",
+      "projectUniqueName": "C:\\Users\\obj26\\examenm5uf2\\examenGithub\\examenGithub\\examenGithub.csproj",
       "projectName": "examenGithub",
-      "projectPath": "C:\\Users\\obj26\\Desktop\\clases\\Clase\\DAM2\\POO\\examenGithub\\examenGithub\\examenGithub.csproj",
+      "projectPath": "C:\\Users\\obj26\\examenm5uf2\\examenGithub\\examenGithub\\examenGithub.csproj",
       "packagesPath": "C:\\Users\\obj26\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\obj26\\Desktop\\clases\\Clase\\DAM2\\POO\\examenGithub\\examenGithub\\obj\\",
+      "outputPath": "C:\\Users\\obj26\\examenm5uf2\\examenGithub\\examenGithub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
