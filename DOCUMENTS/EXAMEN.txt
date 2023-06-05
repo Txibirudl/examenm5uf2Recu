@@ -19,3 +19,10 @@ git add LICENSE.txt
 git add DOCUMENTS/
 git commit
 git push https://github.com/Txibirudl/examenm5uf2Recu.git
+
+Exercici 3
+---------------
+git add examenGithub/
+git add .gitignore
+git commit
+git push https://github.com/Txibirudl/examenm5uf2Recu.git
