@@ -4,7 +4,7 @@ namespace examenGithub
     {
         Viatge viatge = null;
         Menjar menjar = null;
-
+        Animal animal = null;
         public FrmMain()
         {
             InitializeComponent();
@@ -20,6 +20,12 @@ namespace examenGithub
         {
             viatge= new Viatge();
             viatge.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            animal= new Animal();
+            animal.ShowDialog();
         }
     }
 }

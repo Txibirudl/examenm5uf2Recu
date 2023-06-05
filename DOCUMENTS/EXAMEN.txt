@@ -26,3 +26,20 @@ git add examenGithub/
 git add .gitignore
 git commit
 git push https://github.com/Txibirudl/examenm5uf2Recu.git
+
+Exercici 4
+---------------
+git add *
+git commit
+git push https://github.com/Txibirudl/examenm5uf2Recu.git
+
+Exercici 5
+---------------
+
+git add *
+git commit
+git push https://github.com/Txibirudl/examenm5uf2Recu.git
+
+Exercici 6
+---------------
+git branch ampliacio
